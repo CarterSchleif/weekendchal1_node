@@ -1,0 +1,18 @@
+h1{
+  color: lightgreen;
+  font-style: Lucida;
+  text-shadow: 1px 1px white;
+  background-color: skyblue;
+}
+
+#employeesOut{
+font-style: courier;
+background-color: lightgreen;
+color: white;
+}
+
+#monthlyCostsOut{
+  font-style: courier;
+  background-color: lightgreen;
+  color: white;
+}
